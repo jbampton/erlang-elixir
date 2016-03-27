@@ -10,6 +10,7 @@ The best place to start learning Elixir is by using the command line interface, 
 
 ##Installing Erlang on Windows
 
+You can watch a video I created on [installing Erlang on Windows](https://www.youtube.com/watch?v=Jlh8t2k2YLk)
 
 
 ##Resources
