@@ -8,12 +8,12 @@ Elixir runs on the Erlang VM, BEAM.
 
 The best place to start learning Elixir is by using the command line interface, Interactice Elixir or iex. 
 
-##Installing Erlang on Windows
+## Installing Erlang on Windows
 
 You can watch a video I created on [installing Erlang on Windows](https://www.youtube.com/watch?v=Jlh8t2k2YLk)
 
 
-##Resources
+## Resources
 
 https://en.wikipedia.org/wiki/Erlang_(programming_language)
 
